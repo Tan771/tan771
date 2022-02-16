@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+Masters Student at Worcester Polytechnic Institute, particularly insetested in **Path Planning, Computer Vision, Decision Making** and **Mechatronics**. ✨
+
+* 🎓   Bachelor of Technology in Mechanical Engineering.
+* ✍🏻   Check out my website https://tanmay-dhasade.github.io/!
+
 <!--
 **Tan771/tan771** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
