@@ -15,7 +15,7 @@ Masters Student at Worcester Polytechnic Institute, particularly insetested in *
 - [Navigation Stack for Autonomous Vehicle](https://github.com/Tensor-Robotics/navigation_stack) (ROS2, Motion Planning, Localization)
 - [Dense Dept Prediction](https://github.com/tanmay-dhasade/Depth-Prediction-DR) (Deep Learning, Computer Vision)
 - [Autonomous Wound Care](https://github.com/pinakjani/Autonomous_Wound_Care) (Computer Vision, Deep Learning, Robot Manipulation)
-- [Motion planning for LocoBot](https://github.com/tanmay-dhasade/DR-docker) (Computer Vision)
+- [Motion planning for LocoBot](https://github.com/tanmay-dhasade/DR-docker) (Reinforcement Learning, Deep Learning, Robot Manipulation, Motion Planning, Computer Vision)
 
 
 ## Contact 📫
